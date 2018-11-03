@@ -1,5 +1,7 @@
 # Webpack backend basic configuration
 
+[![Build Status](https://travis-ci.com/daniel-234/webpack-backend-basic-configuration.svg?branch=master)](https://travis-ci.com/daniel-234/webpack-backend-basic-configuration)
+
 A minimal working configuration for backend projects in JavaScript bundled with Webpack.
 This app skeleton configuration has been ejected from my other project [User authentication API](https://github.com/daniel-234/user-authentication-api) as a minimal working configuration for future backend projects and for reference. 
 
