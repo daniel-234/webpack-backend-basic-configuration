@@ -1,5 +1,8 @@
 # Webpack backend basic configuration
 
+
+## :red_circle: This repository is now archived!
+
 [![Build Status](https://travis-ci.com/daniel-234/webpack-backend-basic-configuration.svg?branch=master)](https://travis-ci.com/daniel-234/webpack-backend-basic-configuration)
 
 A minimal working configuration for backend projects in JavaScript bundled with Webpack.
